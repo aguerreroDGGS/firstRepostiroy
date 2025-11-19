@@ -1,3 +1,3 @@
 # firstRepostiroy
 
-This is just beggining
+This is just the beggining
